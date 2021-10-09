@@ -10,7 +10,7 @@ function Featured() {
       />
       <div className="info">
         <img src="" alt="" />
-        <span>
+        <span className="description">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi deserunt
           est laborum nihil cumque fugit hic delectus reprehenderit id ad
           consequatur, sunt corrupti. Dignissimos dolorem odio praesentium
